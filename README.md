@@ -10,6 +10,8 @@ The purpose of this script is to explore idealized, generalized **response profi
 
 > ⚠️ **Note:** This is a **simplified conceptual model** meant for visualization and hypothesis generation. It is not calibrated to empirical data, and the metrics used are illustrative.
 
+![Three thermal response profiles](3phases_threshold_funnel_skew.png)
+
 ---
 
 ## 📈 Axis Definitions
