@@ -132,9 +132,9 @@ data_right_skew  <- generate_skewed_data_with_threshold(
   drop = params_right_skew$drop
 )
 
-p1 <- make_threshold_plot(data_symmetric,   "Symmetric Response (Normal)",                custom_colors[1])
-p2 <- make_threshold_plot(data_left_skew,   "Left-Skewed Response (Threshold Collapse)",  custom_colors[2])
-p3 <- make_threshold_plot(data_right_skew,  "Right-Skewed Response (Filtered Survivors)", custom_colors[3])
+p1 <- make_threshold_plot(data_symmetric,   "Symmetric response",           custom_colors[1])
+p2 <- make_threshold_plot(data_left_skew,   "Threshold-collapse response",  custom_colors[2])
+p3 <- make_threshold_plot(data_right_skew,  "Filtered-survivor response",   custom_colors[3])
 
 # Arrange plots vertically without legends
 combined_plot <- plot_grid(p1 + theme(legend.position = "none"),
