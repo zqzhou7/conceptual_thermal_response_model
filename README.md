@@ -45,7 +45,7 @@ Each of the three panels in the output figure illustrates a different ecological
 
 ---
 
-### 1. **Symmetric Response (Normal)**
+### 1. **Symmetric Response**
 
 **Description:**  
 - The response curve follows a **smooth, bell-shaped distribution**.
@@ -57,7 +57,7 @@ Species or traits that are resilient to moderate variability but show symmetrica
 
 ---
 
-### 2. **Left-Skewed Response (Threshold Collapse)**
+### 2. **Threshold Collapse Response**
 
 **Description:**  
 - Performance is **high under stable conditions**, but drops **abruptly after a threshold**.
@@ -69,7 +69,7 @@ Species or populations that are vulnerable to sudden thermal breakdowns—e.g., 
 
 ---
 
-### 3. **Right-Skewed Response (Filtered Survivors)**
+### 3. **Filtered Survivors Response**
 
 **Description:**  
 - Performance is **low under moderate stress**, but improves at higher variability.
